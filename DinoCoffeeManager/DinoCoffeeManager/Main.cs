@@ -12,7 +12,7 @@ namespace DinoCoffeeManager
     {
         public Main()
         {
-            InitializeComponent();
+            InitializeComponent(); 
             pnSide.Height = btnPOS.Height;
             pnSide.Top = btnPOS.Top;
             lbTest.Text = "POS";
