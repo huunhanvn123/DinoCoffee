@@ -1,0 +1,16 @@
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\obj\Debug\netcoreapp3.1\DinoCoffeeManager.csprojAssemblyReference.cache
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\obj\Debug\netcoreapp3.1\DinoCoffeeManager.Main.resources
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\obj\Debug\netcoreapp3.1\DinoCoffeeManager.Properties.Resources.resources
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\obj\Debug\netcoreapp3.1\DinoCoffeeManager.csproj.GenerateResource.cache
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\obj\Debug\netcoreapp3.1\DinoCoffeeManager.AssemblyInfoInputs.cache
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\obj\Debug\netcoreapp3.1\DinoCoffeeManager.AssemblyInfo.cs
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\obj\Debug\netcoreapp3.1\DinoCoffeeManager.csproj.CoreCompileInputs.cache
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\bin\Debug\netcoreapp3.1\DinoCoffeeManager.exe
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\bin\Debug\netcoreapp3.1\DinoCoffeeManager.deps.json
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\bin\Debug\netcoreapp3.1\DinoCoffeeManager.runtimeconfig.json
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\bin\Debug\netcoreapp3.1\DinoCoffeeManager.runtimeconfig.dev.json
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\bin\Debug\netcoreapp3.1\DinoCoffeeManager.dll
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\bin\Debug\netcoreapp3.1\DinoCoffeeManager.pdb
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\obj\Debug\netcoreapp3.1\DinoCoffeeManager.dll
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\obj\Debug\netcoreapp3.1\DinoCoffeeManager.pdb
+E:\Project\PTPMUD\DinoCoffeeManager\DinoCoffeeManager\obj\Debug\netcoreapp3.1\DinoCoffeeManager.genruntimeconfig.cache
